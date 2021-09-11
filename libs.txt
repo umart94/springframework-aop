@@ -1,0 +1,2 @@
+copy libraries from before advice project lib folder into every project again..
+add them to java build path. in eclipse.
